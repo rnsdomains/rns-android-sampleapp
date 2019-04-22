@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RNSExample</string>
     <string name="avatar">Avatar</string>
+    <string name="instructions">Please a full domain registered in RNS</string>
+    <string name="add">Add</string>
+    <string name="addAddressText">Insert domain and click add</string>
 </resources>
