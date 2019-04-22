@@ -10,7 +10,7 @@ You should clone this repository, and the [Android SDK](https://github.com/roots
 
 When you open the app you should see a Dummy user that it is hardcoded in the code of the app. You should add a user using the `+` button.
 
-![Home activity](/images/home_init.png)
+![Home activity](/images/home_init.png =540x960)
 
 That takes you to the `AddAddressActivity` so you can query the address of a known domain registered in mainnet.
 
