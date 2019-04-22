@@ -1,1 +1,1 @@
-include ':app', ':rnssdk'
+include ':app', ':RNS-SDK-android'
