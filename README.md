@@ -10,17 +10,16 @@ You should clone this repository, and the [Android SDK](https://github.com/roots
 
 When you open the app you should see a Dummy user that it is hardcoded in the code of the app. You should add a user using the `+` button.
 
-<img src="https://github.com/rootstock/rns-android-sampleapp/blob/master/images/home_init.png" width="540">
-
+<img src="https://github.com/rootstock/rns-android-sampleapp/blob/master/images/home_init.png" width="240">
 
 That takes you to the `AddAddressActivity` so you can query the address of a known domain registered in mainnet.
 
-![Add user activity](/images/add_user_activity.png)
+<img src="https://github.com/rootstock/rns-android-sampleapp/blob/master/images/add_user_activity.png" width="240">
 
 If you do not have one, you can use this one to test it `ilan.max.rsk`, tipe it and touch `Add`.
 
-![Type a domain](/images/type_a_domain.png)
+<img src="https://github.com/rootstock/rns-android-sampleapp/blob/master/images/type_a_domain.png" width="240">
 
 That will resolve in the address and add it to the list.
 
-![Home with new user](/images/home_with_new_user.png)
+<img src="https://github.com/rootstock/rns-android-sampleapp/blob/master/images/home_with_new_user.png" width="240">
