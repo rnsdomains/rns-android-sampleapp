@@ -1,3 +1,5 @@
+<img src="/logo.png" alt="logo" height="200" />
+
 # RNS Android App example
 
 So this is an example of how to use the [Android SDK](https://github.com/rnsdomains/RNS-SDK-android) of RNS in your android app. The example is basically a list that adds users to it with the + button.
@@ -23,3 +25,18 @@ If you do not have one, you can use this one to test it `ilan.max.rsk`, tipe it 
 That will resolve in the address and add it to the list.
 
 <img src="https://github.com/rnsdomains/rns-android-sampleapp/blob/master/images/home_with_new_user.png" width="240">
+
+---
+
+## Related links
+
+- [RSK](https://rsk.co)
+    - [Docs](https://github.com/rsksmart/rskj/wiki)
+- [RIF](https://rifos.org)
+    - [Docs](https://www.rifos.org/documentation/)
+    - [Whitepaper](https://docs.rifos.org/rif-whitepaper-en.pdf)
+    - [Testnet faucet](https://faucet.rifos.org)
+- RNS
+    - [Docs](https://docs.rns.rifos.org)
+    - [Manager](https://rns.rifos.org)
+    - [Testnet registrar](https://testnet.rns.rifos.org)
