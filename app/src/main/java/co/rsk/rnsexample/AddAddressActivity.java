@@ -12,7 +12,7 @@ import co.rsk.rnssdk.RnsResolver;
 
 public class AddAddressActivity extends AppCompatActivity {
 
-    RnsResolver resolver = new RnsResolver(BuildConfig.NODE, BuildConfig.RESOLVER_ADDRESS);
+    RnsResolver resolver = new RnsResolver();
 
     private final static String NO_RESPONSE = "0x0000000000000000000000000000000000000000";
 
